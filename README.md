@@ -26,6 +26,7 @@ My skill set includes:
 <br>
 
 - **Databases**:
+
   ![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
